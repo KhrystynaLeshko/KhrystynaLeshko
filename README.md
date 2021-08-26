@@ -39,10 +39,11 @@
   
  - - - -
  
-  - 🌱 I’m currently learning more React, MySQL, VueJS, TypeScript.
+  - 🌱 I’m currently studying **React** , **MySQL**, **VueJS**, **TypeScript**.
  
   - When I'm not coding I:
-     ![Practice Yoga ](https://media.giphy.com/media/xl5QdxfNonh3q/giphy.gif?cid=ecf05e47eug6g9v4fneftsbk3xruqdihwzo9rdre58zi8h70&rid=giphy.gif&ct=g)   
+    - Practice Yoga
+     ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g)   
  
   - ⚡  Fun fact: My tremendous GIF skills are out of this world.
 
