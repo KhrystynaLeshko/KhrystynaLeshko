@@ -41,9 +41,12 @@
  
   - 🌱 I’m currently studying **React** , **MySQL**, **VueJS**, **TypeScript**.
  
-  - When I'm not coding I:
-    - Practice Yoga
-     ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g)   
+  - When I'm not coding I am :
+    - Practicing Yoga
+     ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g)
+ 
+    - Roller Skating 
+     ![Roller Skate](https://media.giphy.com/media/Z9VjNxfI12amHUrwdO/giphy.gif?cid=ecf05e47f1mzws8d8os6i7w2on53xz5x8sd86wwvxmciny3l&rid=giphy.gif&ct=g)
  
   - ⚡  Fun fact: My tremendous GIF skills are out of this world.
 
