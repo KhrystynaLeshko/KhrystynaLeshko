@@ -45,7 +45,7 @@
  
   - When I'm not coding I am :
     - Practicing Yoga
-    - ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g)
+    - ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g/200x150)
  
     - Roller Skating 
     - ![Roller Skate](https://media.giphy.com/media/Z9VjNxfI12amHUrwdO/giphy.gif?cid=ecf05e4756u1j9un467etkl2f26rl3xs8ozuqeo3x4r9h7m6&rid=giphy.gif&ct=g)
