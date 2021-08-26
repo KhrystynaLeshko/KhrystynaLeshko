@@ -43,17 +43,17 @@
  
  - - - - 
  
-  - When I'm not coding I am :
-    - Practicing Yoga
-    - ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g/200x150)
+  - 💫  When I'm not coding I am :
+    - 🧘‍♀️ Practicing Yoga
+    - ![Practice Yoga ](https://media.giphy.com/media/3o7TKPJosaxfCfnrk4/giphy.gif?cid=ecf05e47b0l8dh3znwitflrlhm69x9zdqbgxmm0hcwl6vjnr&rid=giphy.gif&ct=g/)
  
-    - Roller Skating 
+    - 🛼 Roller Skating 
     - ![Roller Skate](https://media.giphy.com/media/Z9VjNxfI12amHUrwdO/giphy.gif?cid=ecf05e4756u1j9un467etkl2f26rl3xs8ozuqeo3x4r9h7m6&rid=giphy.gif&ct=g)
     
-    - Travelling
+    - 🧭 Travelling
     - ![Travel](https://media.giphy.com/media/MOTkF7sT8u2Z2/giphy.gif?cid=ecf05e47iialgo16vm93yopz3yx33cy998kq8lb8n8hea27u&rid=giphy.gif&ct=g)
     
-    - Reading
+    - 📚 Reading
     - ![Reading](https://media.giphy.com/media/51XVqRxtB4jqo/giphy.gif?cid=ecf05e47ffgto711hdyja5yucaldt5p566f8640iqtja9z3a&rid=giphy.gif&ct=g)
  
  - - - -
