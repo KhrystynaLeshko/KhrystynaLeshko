@@ -3,23 +3,31 @@
   > and I am a < Web Developer > </h3>
 💻 Dedicated and passionate Web Developer, who is always finding ways to challenge and develop my creative skills.
 
-- - - -
 <img width="109" alt="kl-favicon" src="https://user-images.githubusercontent.com/61162228/131033328-d80121fa-67ae-4f8b-85f4-3fd74b6586ae.png">
 
 - - - - 
 
- ### 📌 ACQUIRED SKILLS:
+ <h3> 🛠 &nbsp; My Tech Stack</h3>
   
-  - HTML5, CSS & Responsive Web Design.
-  - Object-oriented Programming based on JavaScript(ES6).
-  - Back-end Technologies NodeJs, MongoDB, Axios.
-  - Web Development Frameworks (ReactJs & ExpressJs).
-  - Non-relational databases & ODMs(Object Document Mapping).
-  - Integration of 3rd party services (APIs).
-  - Write clean, modular & efficient code and develop well-tested applications using TDD (Test Driven Development) principles.
-  - Servers & Hosting.
-  - Git + GitHub & Version control.
-  - Agile Tools & methodologies.
+  - 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  
+  - 🛢 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
   - - - - 
   
@@ -29,18 +37,20 @@
 </a>
   
   - - - - 
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+  - 🌱 I’m currently learning more React, MySQL, VueJS, TypeScript.
+  - ⚡  Fun fact: My tremendous GIF skills are out of this world.
 
  - - - - 
   
+<h3> 🤝🏻 &nbsp;Let's Collaborate ! </h3>
+<p align="center">
+<a href="https://kl-cool-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/khrystyna-leshko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+<a href="mailto: christinelechko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-john.rosariofrancisco@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [KhrystynaLeshko](https://github.com/KhrystynaLeshko)
 
 - - - - 
 
