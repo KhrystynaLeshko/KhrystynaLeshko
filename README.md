@@ -1,11 +1,12 @@
 ### Hi, 👋
-> i'm Khrystyna
-> and I am a < Web Developer >
+> <h3>i'm Khrystyna
+  > and I am a < Web Developer > </h3>
+
+
 - - - -
 <img width="109" alt="kl-favicon" src="https://user-images.githubusercontent.com/61162228/131033328-d80121fa-67ae-4f8b-85f4-3fd74b6586ae.png">
+
 - - - - 
-<!--
-**KhrystynaLeshko/KhrystynaLeshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
