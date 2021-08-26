@@ -1,6 +1,7 @@
 ### Hi, 👋
-> <h3>i'm Khrystyna
-  > and I am a < Web Developer > </h3>
+ <h3>i'm Khrystyna
+   and I am a < Web Developer > </h3>
+  
 💻 Dedicated and passionate Web Developer, who is always finding ways to challenge and develop my creative skills.
 
 <img width="109" alt="kl-favicon" src="https://user-images.githubusercontent.com/61162228/131033328-d80121fa-67ae-4f8b-85f4-3fd74b6586ae.png">
@@ -43,11 +44,11 @@
  - - - - 
   
 <h3> 🤝🏻 &nbsp;Let's Collaborate ! </h3>
-<p align="center">
+
 <a href="https://kl-cool-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/khrystyna-leshko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="mailto: christinelechko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-john.rosariofrancisco@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto: christinelechko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-christinelechko@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [KhrystynaLeshko](https://github.com/KhrystynaLeshko)
