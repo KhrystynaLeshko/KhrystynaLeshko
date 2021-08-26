@@ -40,16 +40,20 @@
  - - - -
  
   - 🌱 I’m currently learning more React, MySQL, VueJS, TypeScript.
+ 
+  - When I'm not coding I:
+     ![Practice Yoga ](https://media.giphy.com/media/xl5QdxfNonh3q/giphy.gif?cid=ecf05e47eug6g9v4fneftsbk3xruqdihwzo9rdre58zi8h70&rid=giphy.gif&ct=g)   
+ 
   - ⚡  Fun fact: My tremendous GIF skills are out of this world.
 
  - - - - 
   
 <h3> 🤝🏻 &nbsp;Let's Collaborate ! </h3>
 
-<a href="https://kl-cool-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://kl-cool-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/khrystyna-leshko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="mailto: christinelechko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-christinelechko@gmail.com-black?style=flat-square&logo=gmail"></a>
+<a href="mailto: christinelechko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-christinelechko@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [KhrystynaLeshko](https://github.com/KhrystynaLeshko)
